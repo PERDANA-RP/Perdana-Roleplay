@@ -1,0 +1,16 @@
+[
+    {
+      "color": "FF0000",
+      "dopname": "MALAYSIA",
+      "maxonline": 100,
+      "name": "PERDANA ROLEPLAY",
+      "online": 0
+    },
+    {
+      "color": "FFFF00",
+      "dopname": "DEVELOPER",
+      "maxonline": 5,
+      "name": "PERDANA RP",
+      "online": 0
+    }
+  ]

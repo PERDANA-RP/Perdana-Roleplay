@@ -1,6 +1,6 @@
 {
-    "URL_GAME_FILES" : "http://wh3606.web3.maze-host.ru/cache.zip",
-    "URL_CLIENT" : "http://wh3606.web3.maze-host.ru/cache.zip",
+    "URL_GAME_FILES" : "https://raw.githubusercontent.com/PERDANA-RP/Perdana-Roleplay/main/download.json",
+    "URL_CLIENT" : "https://raw.githubusercontent.com/PERDANA-RP/Perdana-Roleplay/main/download.json",
     "URL_VK": "https://vk.com/",
     "URL_TELEGRAM": "https://t.me/",
     "URL_DISCORD": "https://discord.gg/a6WMzvj8cB"
